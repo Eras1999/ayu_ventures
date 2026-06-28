@@ -25,7 +25,7 @@ include 'header.php';
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
           <div class="doctor-card">
             <div class="doctor-image">
-              <img src="assets/img/management/Dushyanta Basnayake.webp" alt="Mr. Dushyanta Basnayake" class="img-fluid">
+              <img src="assets/img/management/dushyantha.jpg" alt="Mr. Dushyanta Basnayake" class="img-fluid">
 
             </div>
             <div class="doctor-content">
@@ -51,7 +51,7 @@ include 'header.php';
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
           <div class="doctor-card">
             <div class="doctor-image">
-              <img src="assets/img/management/Saranga Wijeyarathne.webp" alt="Mr. Saranga Wijeyarathne" class="img-fluid">
+              <img src="assets/img/management/saranga.jpg" alt="Mr. Saranga Wijeyarathne" class="img-fluid">
 
             </div>
             <div class="doctor-content">
@@ -69,7 +69,7 @@ include 'header.php';
                 </div>
               </div>
               <br><br>
-              <a href="appointment.html" class="btn-appointment">View Profile</a>
+         <!--     <a href="appointment.html" class="btn-appointment">View Profile</a>-->
             </div>
           </div>
         </div><!-- End Doctor Card -->
@@ -77,7 +77,7 @@ include 'header.php';
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
           <div class="doctor-card">
             <div class="doctor-image">
-              <img src="assets/img/management/av2.png" alt="Mr. G. Sundar" class="img-fluid">
+              <img src="assets/img/management/sundar.jpg" alt="Mr. G. Sundar" class="img-fluid">
 
             </div>
             <div class="doctor-content">
@@ -95,7 +95,7 @@ include 'header.php';
                 </div>
               </div>
               <br><br>
-              <a href="appointment.html" class="btn-appointment">View Profile</a>
+        <!--      <a href="appointment.html" class="btn-appointment">View Profile</a>-->
             </div>
           </div>
         </div><!-- End Doctor Card -->
@@ -103,7 +103,7 @@ include 'header.php';
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
           <div class="doctor-card">
             <div class="doctor-image">
-              <img src="assets/img/management/av2.png" alt="Mr. Dushyanta Basnayake" class="img-fluid">
+              <img src="assets/img/management/hemamali.jpg" alt="Mr. Dushyanta Basnayake" class="img-fluid">
 
             </div>
             <div class="doctor-content">
@@ -121,7 +121,7 @@ include 'header.php';
                 </div>
               </div>
               <br><br>
-              <a href="appointment.html" class="btn-appointment">View Profile</a>
+         <!--     <a href="appointment.html" class="btn-appointment">View Profile</a>-->
             </div>
           </div>
         </div><!-- End Doctor Card -->
@@ -129,7 +129,7 @@ include 'header.php';
         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
           <div class="doctor-card">
             <div class="doctor-image">
-              <img src="assets/img/management/av2.png" alt="Mr. Saranga Wijeyarathne" class="img-fluid">
+              <img src="assets/img/management/shivi.jpg" alt="Mr. Saranga Wijeyarathne" class="img-fluid">
 
             </div>
             <div class="doctor-content">
@@ -147,7 +147,7 @@ include 'header.php';
                 </div>
               </div>
               <br><br>
-              <a href="appointment.html" class="btn-appointment">View Profile</a>
+        <!--      <a href="appointment.html" class="btn-appointment">View Profile</a>-->
             </div>
           </div>
         </div><!-- End Doctor Card -->
@@ -173,7 +173,7 @@ include 'header.php';
                 </div>
               </div>
               <br><br>
-              <a href="appointment.html" class="btn-appointment">View Profile</a>
+        <!--      <a href="appointment.html" class="btn-appointment">View Profile</a>-->
             </div>
           </div>
         </div><!-- End Doctor Card -->
