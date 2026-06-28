@@ -107,8 +107,8 @@ include 'header.php';
 
             </div>
             <div class="doctor-content">
-              <h4>Mr. Dushyanta Basnayake</h4>
-              <span class="specialty">Chairman</span>
+              <h4>Ms.Hemamali</h4>
+              <span class="specialty">Role</span>
               <br>
          <!--       <div class="doctor-meta">
                 <div class="experience">
@@ -133,8 +133,8 @@ include 'header.php';
 
             </div>
             <div class="doctor-content">
-              <h4>Mr. Saranga Wijeyarathne</h4>
-              <span class="specialty">Managing Director</span>
+              <h4>Ms.Shivi</h4>
+              <span class="specialty">Role</span>
               <br>
         <!--        <div class="doctor-meta">
                 <div class="experience">

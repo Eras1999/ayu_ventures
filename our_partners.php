@@ -30,7 +30,6 @@ include 'header.php';
 <div class="logo-card"><img src="assets/img/partner/10.webp" alt="Partner 2"></div>
 <div class="logo-card"><img src="assets/img/partner/11.webp" alt="Partner 1"></div>
 <div class="logo-card"><img src="assets/img/partner/12.webp" alt="Partner 2"></div>
-<div class="logo-card"><img src="assets/img/partner/12.webp" alt="Partner 1"></div>
 <div class="logo-card"><img src="assets/img/partner/13.webp" alt="Partner 2"></div>
 <div class="logo-card"><img src="assets/img/partner/14.webp" alt="Partner 1"></div>
 <div class="logo-card"><img src="assets/img/partner/15.webp" alt="Partner 2"></div>

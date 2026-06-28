@@ -85,7 +85,7 @@
     <!-- Bottom -->
     <div style="border-top:1px solid rgba(255,255,255,0.3);margin-top:40px;padding-top:15px;text-align:center;">
       <p style="font-size:13px;margin:0;">
-        © <?php echo date("Y"); ?> Ayu Ventures. All rights reserved.
+        © <?php echo date("Y"); ?> Ayu Ventures. All rights reserved | Designed and Developed by IOTA Digitals
       </p>
     </div>
   </div>

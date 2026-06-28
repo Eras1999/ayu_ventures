@@ -269,16 +269,16 @@ include 'header.php';
       <!-- Right Logos -->
       <div class="partners-logos">
         <div class="partner-logo-card">
-          <img src="assets/img/home/p1.png" alt="Partner 1">
+          <img src="assets/img/home/1.webp" alt="Partner 1">
         </div>
         <div class="partner-logo-card">
-          <img src="assets/img/home/p2.png" alt="Partner 2">
+          <img src="assets/img/home/2.webp" alt="Partner 2">
         </div>
         <div class="partner-logo-card">
-          <img src="assets/img/home/p2.png" alt="Partner 3">
+          <img src="assets/img/home/21.webp" alt="Partner 3">
         </div>
         <div class="partner-logo-card">
-          <img src="assets/img/home/p1.png" alt="Partner 4">
+          <img src="assets/img/home/26.webp" alt="Partner 4">
         </div>
       </div>
 
