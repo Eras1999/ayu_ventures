@@ -43,7 +43,7 @@ include 'header.php';
                 </div>
               </div>
               <br><br>
-              <a href="dushyanta_basnayake.php" class="btn-appointment">View Profile</a>
+        <!--      <a href="dushyanta_basnayake.php" class="btn-appointment">View Profile</a> -->
             </div>
           </div>
         </div><!-- End Doctor Card -->
