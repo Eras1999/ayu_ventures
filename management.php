@@ -84,7 +84,7 @@ include 'header.php';
               <h4>Mr. G. Sundar</h4>
               <span class="specialty">Technical Director</span>
               <br>
-              <div class="doctor-meta">
+        <!--       <div class="doctor-meta">
                 <div class="experience">
 
                   <span>Phone : +94 777 744 002</span>
@@ -110,7 +110,7 @@ include 'header.php';
               <h4>Mr. Dushyanta Basnayake</h4>
               <span class="specialty">Chairman</span>
               <br>
-              <div class="doctor-meta">
+         <!--       <div class="doctor-meta">
                 <div class="experience">
 
                   <span>Phone : +94 777 744 002</span>
@@ -136,7 +136,7 @@ include 'header.php';
               <h4>Mr. Saranga Wijeyarathne</h4>
               <span class="specialty">Managing Director</span>
               <br>
-              <div class="doctor-meta">
+        <!--        <div class="doctor-meta">
                 <div class="experience">
 
                   <span>Phone : +94 773 219 773</span>
@@ -152,7 +152,7 @@ include 'header.php';
           </div>
         </div><!-- End Doctor Card -->
 
-        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+  <!--      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
           <div class="doctor-card">
             <div class="doctor-image">
               <img src="assets/img/management/av2.png" alt="Mr. G. Sundar" class="img-fluid">
@@ -174,7 +174,7 @@ include 'header.php';
               </div>
               <br><br>
         <!--      <a href="appointment.html" class="btn-appointment">View Profile</a>-->
-            </div>
+        <!--    </div>
           </div>
         </div><!-- End Doctor Card -->
 
