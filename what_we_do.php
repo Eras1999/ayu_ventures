@@ -21,7 +21,7 @@ include 'header.php';
       <!-- 1 -->
       <div class="row align-items-center mb-5" data-aos="fade-up" data-aos-delay="0">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C1.1.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C1.1.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">1. Supply of Pharmaceutical Raw Materials</h3>
@@ -38,7 +38,7 @@ include 'header.php';
       <!-- 2 -->
       <div class="row align-items-center mb-5 flex-lg-row-reverse" data-aos="fade-up" data-aos-delay="100">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C2.1.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C2.1.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">2. Pharmaceutical Retail</h3>
@@ -55,7 +55,7 @@ include 'header.php';
       <!-- 3 -->
       <div class="row align-items-center mb-5" data-aos="fade-up" data-aos-delay="200">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C3.1.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C3.1.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">3. Supply of Semi-Finished Formulations</h3>
@@ -71,7 +71,7 @@ include 'header.php';
       <!-- 4 -->
       <div class="row align-items-center mb-5 flex-lg-row-reverse" data-aos="fade-up" data-aos-delay="300">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C4.2.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C4.2.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">4. Pharma & Food Industry Machinery</h3>
@@ -86,7 +86,7 @@ include 'header.php';
       <!-- 5 -->
       <div class="row align-items-center mb-5" data-aos="fade-up" data-aos-delay="400">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C5.2.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C5.2.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">5. Pharmaceutical Packaging Materials</h3>
@@ -101,7 +101,7 @@ include 'header.php';
       <!-- 6 -->
       <div class="row align-items-center mb-5 flex-lg-row-reverse" data-aos="fade-up" data-aos-delay="500">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C6.2.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C6.2.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">6. Desiccants & Shelf-Life Enhancement</h3>
@@ -116,7 +116,7 @@ include 'header.php';
       <!-- 7 -->
       <div class="row align-items-center mb-5" data-aos="fade-up" data-aos-delay="0">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C7.1.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C7.1.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">7. Technology Transfer</h3>
@@ -131,7 +131,7 @@ include 'header.php';
       <!-- 8 -->
       <div class="row align-items-center mb-5 flex-lg-row-reverse" data-aos="fade-up" data-aos-delay="100">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C8.1.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C8.1.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">8. Technological Integration & AI</h3>
@@ -146,7 +146,7 @@ include 'header.php';
       <!-- 9 -->
       <div class="row align-items-center mb-5" data-aos="fade-up" data-aos-delay="200">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C9.2.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C9.2.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">9. Pharmaceutical & Food Testing</h3>
@@ -160,7 +160,7 @@ include 'header.php';
       <!-- 10 -->
       <div class="row align-items-center mb-5 flex-lg-row-reverse" data-aos="fade-up" data-aos-delay="300">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C10.2.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C10.2.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">10. Reference Standards & Research Chemicals</h3>
@@ -174,7 +174,7 @@ include 'header.php';
       <!-- 11 -->
       <div class="row align-items-center mb-5" data-aos="fade-up" data-aos-delay="400">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C11.1.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C11.1.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">11. Pharmaceutical Consultancy</h3>
@@ -188,7 +188,7 @@ include 'header.php';
       <!-- 12 -->
       <div class="row align-items-center mb-5 flex-lg-row-reverse" data-aos="fade-up" data-aos-delay="500">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C12.2.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C12.2.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">12. Medical Devices & Surgical Equipment</h3>
@@ -202,7 +202,7 @@ include 'header.php';
       <!-- 13 -->
       <div class="row align-items-center mb-5" data-aos="fade-up" data-aos-delay="0">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C13.2.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C13.2.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">13. Turnkey Cleanroom & GMP Infrastructure</h3>
@@ -216,7 +216,7 @@ include 'header.php';
       <!-- 14 -->
       <div class="row align-items-center mb-5 flex-lg-row-reverse" data-aos="fade-up" data-aos-delay="100">
         <div class="col-lg-6 mb-4 mb-lg-0">
-          <img src="assets/img/what_we_do/C14.1.png" class="img-fluid rounded" alt="">
+          <img src="assets/img/what_we_do/C14.1.webp" class="img-fluid rounded" alt="">
         </div>
         <div class="col-lg-6">
           <h3 style="color:#2f8f00;font-weight:700;">

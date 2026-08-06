@@ -82,7 +82,7 @@ include 'header.php';
             </div>
             <div class="doctor-content">
               <h4>Mr. G. Sundar</h4>
-              <span class="specialty">Technical Director</span>
+              <span class="specialty">Director - Regulatory & Quality Compliance</span>
               <br>
         <!--       <div class="doctor-meta">
                 <div class="experience">
@@ -107,8 +107,8 @@ include 'header.php';
 
             </div>
             <div class="doctor-content">
-              <h4>Ms.Hemamali</h4>
-              <span class="specialty">Role</span>
+              <h4>Ms. Hemamali Attanayake</h4>
+              <span class="specialty">Principal Pharmacist</span>
               <br>
          <!--       <div class="doctor-meta">
                 <div class="experience">
@@ -133,8 +133,8 @@ include 'header.php';
 
             </div>
             <div class="doctor-content">
-              <h4>Ms.Shivi</h4>
-              <span class="specialty">Role</span>
+              <h4>Ms. Shivangini Bahuguna</h4>
+              <span class="specialty">Talant Management Specialist</span>
               <br>
         <!--        <div class="doctor-meta">
                 <div class="experience">

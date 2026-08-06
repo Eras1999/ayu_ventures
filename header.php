@@ -62,10 +62,10 @@ $title = $pageTitles[$currentPage] ?? "Ayu Venture";
           <i class="bi bi-phone d-flex align-items-center ms-4"><span>+94 711 300 8888</span></i>
         </div>
         <div class="social-links d-none d-md-flex align-items-center">
-          <a href="#!" class="twitter"><i class="bi bi-twitter-x"></i></a>
-          <a href="#!" class="facebook"><i class="bi bi-facebook"></i></a>
-          <a href="#!" class="instagram"><i class="bi bi-instagram"></i></a>
-          <a href="#!" class="linkedin"><i class="bi bi-linkedin"></i></a>
+          
+          <a href="https://www.facebook.com/AyuVentureslk/" class="facebook"><i class="bi bi-facebook"></i></a>
+          <a href="https://www.instagram.com/ayuventureslk/" class="instagram"><i class="bi bi-instagram"></i></a>
+          
         </div>
       </div>
     </div><!-- End Top Bar -->
